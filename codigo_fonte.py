@@ -215,7 +215,7 @@ def preparar_dados_modelo(df): # prepara variaveis e alvo para o modelo de previ
     return X, y
 
 def treinar_avaliar_modelo(X, y): # divide os dados em treino, treina uma regressao linear simples e calcula MAE, MSE e RMSE e R2
-      X_treino, X_teste, y_treino, y_teste = train_test_split(
+    X_treino, X_teste, y_treino, y_teste = train_test_split(
         X, y, test_size=0.2, random_state=42
     )
     modelo = LinearRegression()
@@ -388,4 +388,3 @@ def menu():
  
 if __name__ == "__main__":
     menu()
-
