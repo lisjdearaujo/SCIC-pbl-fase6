@@ -1,6 +1,6 @@
 # SCIC — Sistema de Comunicação Interplanetária da Colônia
 
-Protótipo desenvolvido para a colônia **Aurora Siger**, como atividade integradora.
+Protótipo desenvolvido por Eduardo Alves e Lisandra Araujo para a colônia **Aurora Siger**, como atividade integradora.
 
 ## Objetivo do projeto
 
